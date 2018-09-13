@@ -1,0 +1,8 @@
+# Project related
+data/
+resources/
+
+# IntelliJ IDEA
+out/
+target/
+\.idea/
