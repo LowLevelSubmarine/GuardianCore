@@ -1,4 +1,4 @@
-package core.codecs;
+package com.lowlevelsubmarine.guardiancore.codecs;
 
 import java.nio.charset.StandardCharsets;
 import java.util.Arrays;

@@ -1,6 +1,6 @@
-package objects;
+package com.lowlevelsubmarine.guardiancore.objs;
 
-import core.Caesar;
+import com.lowlevelsubmarine.guardiancore.Caesar;
 
 public class Preset {
 

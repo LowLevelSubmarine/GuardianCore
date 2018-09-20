@@ -1,4 +1,4 @@
-package core.codecs;
+package com.lowlevelsubmarine.guardiancore.codecs;
 
 public enum StableCodec implements Codec {
 

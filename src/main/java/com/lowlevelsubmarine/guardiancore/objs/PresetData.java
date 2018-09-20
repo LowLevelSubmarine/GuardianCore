@@ -1,4 +1,4 @@
-package objects;
+package com.lowlevelsubmarine.guardiancore.objs;
 
 import java.util.HashMap;
 

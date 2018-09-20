@@ -1,6 +1,6 @@
-package core;
+package com.lowlevelsubmarine.guardiancore;
 
-import core.codecs.StableCodec;
+import com.lowlevelsubmarine.guardiancore.codecs.StableCodec;
 
 import javax.crypto.Cipher;
 import javax.crypto.spec.IvParameterSpec;
