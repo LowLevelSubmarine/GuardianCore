@@ -1,2 +1,2 @@
-# Guardian
-A tool for save password storage
+# GuardianCore
+A developers toolkit for password storaging
