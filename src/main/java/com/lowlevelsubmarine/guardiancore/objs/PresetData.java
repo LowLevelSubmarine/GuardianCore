@@ -1,13 +1,11 @@
 package com.lowlevelsubmarine.guardiancore.objs;
 
-import java.util.HashMap;
-
-public class PresetData {
+public class PresetData<T> {
 
     private String name;
     private String codec;
     private byte[] bytes;
-    private HashMap<String, String> infos;
+    private T info;
 
     public String getName() {
         return this.name;
@@ -30,8 +28,11 @@ public class PresetData {
         this.codec = coded;
     }
 
-    public HashMap<String, String> getInfos() {
-        return this.infos;
+    public T getInfo() {
+        return this.info;
+    }
+    public void setInfo(T info) {
+        this.info = info;
     }
 
 }
